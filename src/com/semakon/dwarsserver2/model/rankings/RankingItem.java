@@ -42,4 +42,9 @@ public class RankingItem {
         this.points = points;
     }
 
+    @Override
+    public String toString() {
+        return id + ": " + user.getName() + " - " + points;
+    }
+
 }

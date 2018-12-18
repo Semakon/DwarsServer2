@@ -53,4 +53,17 @@ public class Ranking {
         this.rankingItems = rankingItems;
     }
 
+    @Override
+    public String toString() {
+        StringBuilder res = new StringBuilder(id + ": " + name + " {\n");
+
+        for (RankingItem i : rankingItems) {
+            res.append("\t").append(i).append(",\n");
+        }
+        res.delete(res.length() - 2, res.length() - 1);
+        res.append("}");
+
+        return res.toString();
+    }
+
 }

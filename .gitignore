@@ -23,3 +23,5 @@
 hs_err_pid*
 .idea/
 DwarsServer2.iml
+/.idea/dictionaries/Martijn.xml
+out/production/DwarsServer2/com/semakon/dwarsserver2/data/

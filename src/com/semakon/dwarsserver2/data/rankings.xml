@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rankings>
+    <ranking id="1">
+        <name>Broccoli</name>
+        <description>Wie het meest heeft gebraakt (naar aanleiding van drank) in het afgelopen jaar.</description>
+        <item id="1">
+            <user-id>1</user-id>
+            <points>3</points>
+        </item>
+        <item id="2">
+            <user-id>2</user-id>
+            <points>5</points>
+        </item>
+    </ranking>
+</rankings>

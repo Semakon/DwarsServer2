@@ -17,6 +17,6 @@ public interface Database {
 
     void saveRankings(List<Ranking> rankings);
 
-    List<Ranking> loadRankings();
+    List<Ranking> loadRankings(List<User> users);
 
 }
