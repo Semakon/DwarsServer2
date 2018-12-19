@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <rankings>
     <ranking id="1">
-        <name>Broccoli</name>
-        <description>Wie het meest heeft gebraakt (naar aanleiding van drank) in het afgelopen jaar.</description>
+        <name>Panda Punten</name>
+        <description>Weken niet geneukt.</description>
         <item id="1">
-            <user-id>1</user-id>
-            <points>3</points>
+            <user-id>18</user-id>
+            <points>0</points>
         </item>
         <item id="2">
-            <user-id>2</user-id>
-            <points>5</points>
+            <user-id>3</user-id>
+            <points>10</points>
+        </item>
+        <item id="3">
+            <user-id>421</user-id>
+            <points>12</points>
         </item>
     </ranking>
 </rankings>
